@@ -1,0 +1,23 @@
+{
+  "name": "drive-integrated-testing",
+  "version": "1.0.0",
+  "description": "Implementing integrated testing with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibai Seco",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.8.0",
+    "babel-preset-env": "^1.7.0",
+    "faker": "^4.1.0",
+    "jest": "^24.8.0",
+    "puppeteer": "^1.19.0"
+  }
+}
