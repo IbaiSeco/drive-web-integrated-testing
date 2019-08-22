@@ -2,13 +2,13 @@
 
 Automated web testing for www.drive.ca test environments
 
-## How it Works
+## How it works
 
 This script uses the `npm puppeteer` package running a headless chrome plugin to test certain aspects of the DRIVE website.
 
 In order for the script to run properly you need to update the `.env` file with the proper information. Then the script will do the rest on its own.
 
-## How to Run it
+## How to run it
 
 Create a `.env` file in the code directory with the following format, just fill in the details:
 
