@@ -38,8 +38,8 @@ POSTAL_CODE=''
 ```
 
 Once all of these details are inserted, run the following commands:
-- `npm install` to install of the necessary dependencies
-- Then run `cd lib`
-- `node login-serviceflow`
+- `$ npm install` to install of the necessary dependencies
+- Then run `$ cd lib`
+- `$ node login-serviceflow`
 
 And then the code should run properly and display the correct test results.
